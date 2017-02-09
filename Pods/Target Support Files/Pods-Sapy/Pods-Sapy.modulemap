@@ -1,0 +1,6 @@
+framework module Pods_Sapy {
+  umbrella header "Pods-Sapy-umbrella.h"
+
+  export *
+  module * { export * }
+}
